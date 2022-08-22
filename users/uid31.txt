@@ -1,0 +1,6 @@
+UID: 31; Email: user31@company.com;
+Activity Log:
+0. [created record] at 2022-08-23T01:16:58+03:00
+1. [logged in] at 2022-08-23T01:16:58+03:00
+2. [created record] at 2022-08-23T01:16:58+03:00
+3. [logged in] at 2022-08-23T01:16:58+03:00

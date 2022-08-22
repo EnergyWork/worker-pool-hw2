@@ -33,7 +33,7 @@ func (u User) getActivityInfo() string {
 func main() {
 	rand.Seed(time.Now().Unix())
 	startTime := time.Now()
-	const usersCount, workersCount = 100, 5
+	const usersCount, workersCount = 100, 10
 
 	users := make(chan User, usersCount)
 	save := make(chan string)
